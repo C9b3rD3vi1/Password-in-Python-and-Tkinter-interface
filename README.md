@@ -4,31 +4,31 @@ Security is a major concern in todays organisation, In order to ensure security 
 
 Password Generator, Strength checkers and Validation using Python and Tkinter framework interface
 
-# At work!!
+## At work!!
 #Images showing how this code works!!
-![Alt text](Password-in-Python-and-Tkinter-interface/Passfunction.png)
+![Password function](/Password-in-Python-and-Tkinter-interface/Passfunction.png)
 
-![alt text](Password-in-Python-and-Tkinter-interface/password.png)
-
-
+![Test Usage](/Password-in-Python-and-Tkinter-interface/password.png)
 
 
 
 
-# Usage
+
+
+## Usage
 
 step 1
 
-# clone this repository
+## clone this repository
 $ https://github.com/Pelekingz/Password-in-Python-and-Tkinter-interface.git
 
 
 step 2 
 # navigate to the password directory
 $ cd Password-in-Python-and-Tkinter-interface
-# then
+### then
 $ cd password
 
 step 3 
-# run
+### run
 $ Python3 password.py
