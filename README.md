@@ -11,7 +11,7 @@ Password Generator, Strength checkers and Validation using Python and Tkinter fr
 
 ![Test Usage](./password.png)
 
-![Screenshot](./Screenshot at 2024-04-16 09-09-24.png)
+![Screenshot](./Screenshotat.png)
 
 ![Screenshot](./StrengthCheck.png)
 
