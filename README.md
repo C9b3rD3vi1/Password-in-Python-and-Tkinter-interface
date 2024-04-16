@@ -16,7 +16,7 @@ Password Generator, Strength checkers and Validation using Python and Tkinter fr
 
 
 
-## Usage
+# Usage
 
 step 1
 
