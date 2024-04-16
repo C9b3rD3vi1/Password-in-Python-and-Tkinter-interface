@@ -9,9 +9,9 @@ Password Generator, Strength checkers and Validation using Python and Tkinter fr
 
 ![Password function](./Passfunction.png)
 
-![Test Usage](./Password-in-Python-and-Tkinter-interface/password.png)
+![Test Usage](./password.png)
 
-![Screenshot](./Password-in-Python-and-Tkinter-interface/StrengthCheck.png)
+![Screenshot](./StrengthCheck.png)
 
 
 
