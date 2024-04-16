@@ -6,11 +6,12 @@ Password Generator, Strength checkers and Validation using Python and Tkinter fr
 
 ## At work!!
 #Images showing how this code works!!
-![Password function](/Password-in-Python-and-Tkinter-interface/Passfunction.png)
 
-![Test Usage](/Password-in-Python-and-Tkinter-interface/password.png)
+![Password function](./Password-in-Python-and-Tkinter-interface/Passfunction.png)
 
+![Test Usage](./Password-in-Python-and-Tkinter-interface/password.png)
 
+![Screenshot](./Password-in-Python-and-Tkinter-interface/StrengthCheck.png)
 
 
 
