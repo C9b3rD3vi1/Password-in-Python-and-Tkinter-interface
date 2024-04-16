@@ -7,7 +7,7 @@ Password Generator, Strength checkers and Validation using Python and Tkinter fr
 #Images showing how this code works!!
 ![Alt text](Password-in-Python-and-Tkinter-interface/Passfunction.png)
 
-![Alt text](Password-in-Python-and-Tkinter-interface/password.png)
+![alt text](Password-in-Python-and-Tkinter-interface/password.png)
 
 
 
